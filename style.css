@@ -277,7 +277,7 @@ nav {
 }
 .day-action {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(/img/cta-bg.jpg);
+    url("./img/cta-bg.jpg");
   height: 100%;
   background-attachment: fixed;
   margin-bottom: 100px;
